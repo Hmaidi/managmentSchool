@@ -1,0 +1,1268 @@
+
+{
+  "primary": {
+    "years": ["KGs", "Year 1", "Year 2", "Year 3", "Year 4", "Year 5"],
+    "classes": {
+      "KGs": [
+        {
+          "class": "KGs1",
+          "students": [
+
+            {
+              "position":109,
+              "username": "student2",
+              "age": 5,
+              "dateOfBirth": "2019-02-01",
+              "subjects": {
+                "maths": {"note": "Needs more practice in counting."},
+                "physicalSciences": {"note": "Curious about how things work."},
+                "English": {"note": "Working on vocabulary development."},
+                "computers": {"note": "Learning to use a mouse and keyboard."},
+                "sport": {"note": "Participates in sports activities with enthusiasm."}
+              },
+              "image": "assets/img/1.png"
+            },
+            {
+              "position":2,
+              "username": "student3",
+              "age": 5,
+              "dateOfBirth": "2019-03-01",
+              "subjects": {
+                "maths": {"note": "Shows improvement in counting."},
+                "physicalSciences": {"note": "Observant during experiments."},
+                "English": {"note": "Beginning to express ideas in sentences."},
+                "computers": {"note": "Becoming familiar with basic software."},
+                "sport": {"note": "Demonstrates coordination and balance in activities."}
+              },
+              "image": "assets/img/2.png"
+            },
+
+            {
+              "position":3,
+              "username": "student5",
+              "age": 5,
+              "dateOfBirth": "2019-05-01",
+              "subjects": {
+                "maths": {"note": "Confidently applies counting skills."},
+                "physicalSciences": {"note": "Eager to explore different materials."},
+                "English": {"note": "Starting to construct simple sentences."},
+                "computers": {"note": "Comfortable using a computer with minimal assistance."},
+                "sport": {"note": "Participates actively in team sports."}
+              },
+              "image": "assets/img/3.png"
+            }
+          ]
+        },
+        {
+          "class": "KGs2",
+          "students": [
+
+            {
+              "position":4,
+              "username": "student8",
+              "age": 5,
+              "dateOfBirth": "2019-08-01",
+              "subjects": {
+                "maths": {"note": "Demonstrates understanding of basic addition and subtraction."},
+                "physicalSciences": {"note": "Asks questions to explore how things work."},
+                "English": {"note": "Reading simple sentences with assistance."},
+                "computers": {"note": "Learning to save files on a computer."},
+                "sport": {"note": "Improving coordination and balance in sports activities."}
+              },
+              "image": "assets/img/1.png"
+            },
+
+            {
+              "position":5,
+              "username": "student10",
+              "age": 5,
+              "dateOfBirth": "2019-10-01",
+              "subjects": {
+                "maths": {"note": "Practicing counting in different contexts."},
+                "physicalSciences": {"note": "Showing curiosity about the natural world."},
+                "English": {"note": "Becoming more fluent in spoken language."},
+                "computers": {"note": "Exploring various computer applications."},
+                "sport": {"note": "Participating actively in structured physical activities."}
+              },
+              "image": "assets/img/2.png"
+            }
+          ]
+        },
+
+        {
+          "class": "KGs3",
+          "students": [
+            {
+              "position":6,
+              "username": "student11",
+              "age": 5,
+              "dateOfBirth": "2019-11-01",
+              "subjects": {
+                "maths": {"note": "Showing understanding of basic addition and subtraction."},
+                "physicalSciences": {"note": "Displays interest in simple scientific concepts."},
+                "English": {"note": "Beginning to read simple sentences."},
+                "computers": {"note": "Learning to use basic software applications."},
+                "sport": {"note": "Participates actively in various sports activities."}
+              },
+              "image": "assets/img/3.png"
+            },
+
+            {
+              "position":7,
+              "username": "student14",
+              "age": 5,
+              "dateOfBirth": "2020-02-01",
+              "subjects": {
+                "maths": {"note": "Practicing addition and subtraction with objects."},
+                "physicalSciences": {"note": "Curious about the natural world and its phenomena."},
+                "English": {"note": "Reading short stories with assistance."},
+                "computers": {"note": "Learning to type on a keyboard."},
+                "sport": {"note": "Demonstrating coordination and teamwork in sports."}
+              },
+              "image": "assets/img/1.jpg"
+            },
+            {
+              "position":8,
+              "username": "student15",
+              "age": 5,
+              "dateOfBirth": "2020-03-01",
+              "subjects": {
+                "maths": {"note": "Developing problem-solving skills in math."},
+                "physicalSciences": {"note": "Engages in hands-on experiments with curiosity."},
+                "English": {"note": "Beginning to write simple sentences."},
+                "computers": {"note": "Learning to use basic computer functions."},
+                "sport": {"note": "Participating actively in physical education activities."}
+              },
+              "image": "assets/img/1.png"
+            }
+          ]
+        }
+
+      ],
+      "Year 1": [
+        {
+          "class": "1A",
+          "students": [
+
+            {
+              "position":9,
+              "username": "student2",
+              "age": 5,
+              "dateOfBirth": "2019-02-01",
+              "subjects": {
+                "maths": {"note": "Needs more practice in counting."},
+                "physicalSciences": {"note": "Curious about how things work."},
+                "English": {"note": "Working on vocabulary development."},
+                "computers": {"note": "Learning to use a mouse and keyboard."},
+                "sport": {"note": "Participates in sports activities with enthusiasm."}
+              },
+              "image": "assets/img/2.png"
+            },
+            {
+              "position":10,
+              "username": "student3",
+              "age": 5,
+              "dateOfBirth": "2019-03-01",
+              "subjects": {
+                "maths": {"note": "Shows improvement in counting."},
+                "physicalSciences": {"note": "Observant during experiments."},
+                "English": {"note": "Beginning to express ideas in sentences."},
+                "computers": {"note": "Becoming familiar with basic software."},
+                "sport": {"note": "Demonstrates coordination and balance in activities."}
+              },
+              "image": "assets/img/3.png"
+            }
+
+          ]
+        },
+        {
+          "class": "1B",
+          "students": [
+
+            {
+              "position":11,
+              "username": "student7",
+              "age": 5,
+              "dateOfBirth": "2019-07-01",
+              "subjects": {
+                "maths": {"note": "Practicing counting with various objects."},
+                "physicalSciences": {"note": "Expresses interest in simple scientific concepts."},
+                "English": {"note": "Learning new words and their meanings."},
+                "computers": {"note": "Understanding basic functions of a computer."},
+                "sport": {"note": "Participates in group sports activities with enthusiasm."}
+              },
+              "image": "assets/img/2.png"
+            },
+            {
+              "position":12,
+              "username": "student8",
+              "age": 5,
+              "dateOfBirth": "2019-08-01",
+              "subjects": {
+                "maths": {"note": "Demonstrates understanding of basic addition and subtraction."},
+                "physicalSciences": {"note": "Asks questions to explore how things work."},
+                "English": {"note": "Reading simple sentences with assistance."},
+                "computers": {"note": "Learning to save files on a computer."},
+                "sport": {"note": "Improving coordination and balance in sports activities."}
+              },
+              "image": "assets/img/3.png"
+            },
+
+            {
+              "position":13,
+              "username": "student10",
+              "age": 5,
+              "dateOfBirth": "2019-10-01",
+              "subjects": {
+                "maths": {"note": "Practicing counting in different contexts."},
+                "physicalSciences": {"note": "Showing curiosity about the natural world."},
+                "English": {"note": "Becoming more fluent in spoken language."},
+                "computers": {"note": "Exploring various computer applications."},
+                "sport": {"note": "Participating actively in structured physical activities."}
+              },
+              "image": "assets/img/3.png"
+            }
+          ]
+        },
+
+        {
+          "class": "1C",
+          "students": [
+            {
+              "position":16,
+              "username": "student11",
+              "age": 5,
+              "dateOfBirth": "2019-11-01",
+              "subjects": {
+                "maths": {"note": "Showing understanding of basic addition and subtraction."},
+                "physicalSciences": {"note": "Displays interest in simple scientific concepts."},
+                "English": {"note": "Beginning to read simple sentences."},
+                "computers": {"note": "Learning to use basic software applications."},
+                "sport": {"note": "Participates actively in various sports activities."}
+              },
+              "image": "assets/img/2.png"
+            },
+
+            {
+              "position":15,
+              "username": "student15",
+              "age": 5,
+              "dateOfBirth": "2020-03-01",
+              "subjects": {
+                "maths": {"note": "Developing problem-solving skills in math."},
+                "physicalSciences": {"note": "Engages in hands-on experiments with curiosity."},
+                "English": {"note": "Beginning to write simple sentences."},
+                "computers": {"note": "Learning to use basic computer functions."},
+                "sport": {"note": "Participating actively in physical education activities."}
+              },
+              "image": "assets/img/1.png"
+            }
+          ]
+        }
+      ],
+      "Year 2": [
+        {
+          "class": "2A",
+          "students": [
+
+            {
+              "position":14,
+              "username": "student2",
+              "age": 5,
+              "dateOfBirth": "2019-02-01",
+              "subjects": {
+                "maths": {"note": "Needs more practice in counting."},
+                "physicalSciences": {"note": "Curious about how things work."},
+                "English": {"note": "Working on vocabulary development."},
+                "computers": {"note": "Learning to use a mouse and keyboard."},
+                "sport": {"note": "Participates in sports activities with enthusiasm."}
+              },
+              "image": "assets/img/2.png"
+            },
+
+            {
+              "position":17,
+              "username": "student4",
+              "age": 5,
+              "dateOfBirth": "2019-04-01",
+              "subjects": {
+                "maths": {"note": "Works independently on counting tasks."},
+                "physicalSciences": {"note": "Asks questions to understand experiments better."},
+                "English": {"note": "Expanding vocabulary through reading."},
+                "computers": {"note": "Able to navigate basic computer programs."},
+                "sport": {"note": "Shows interest in learning new sports."}
+              },
+              "image": "assets/img/3.png"
+            }
+
+          ]
+        },
+        {
+          "class": "2B",
+          "students": [
+            {
+              "position":92,
+              "username": "student6",
+              "age": 5,
+              "dateOfBirth": "2019-06-01",
+              "subjects": {
+                "maths": {"note": "Shows progress in counting skills."},
+                "physicalSciences": {"note": "Curious about different materials."},
+                "English": {"note": "Beginning to form complete sentences."},
+                "computers": {"note": "Learning to open and close programs."},
+                "sport": {"note": "Developing basic motor skills in sports activities."}
+              },
+              "image": "assets/img/1.jpg"
+            },
+            {
+              "position":91,
+              "username": "student7",
+              "age": 5,
+              "dateOfBirth": "2019-07-01",
+              "subjects": {
+                "maths": {"note": "Practicing counting with various objects."},
+                "physicalSciences": {"note": "Expresses interest in simple scientific concepts."},
+                "English": {"note": "Learning new words and their meanings."},
+                "computers": {"note": "Understanding basic functions of a computer."},
+                "sport": {"note": "Participates in group sports activities with enthusiasm."}
+              },
+              "image": "assets/img/2.png"
+            },
+            {
+              "position":90,
+              "username": "student8",
+              "age": 5,
+              "dateOfBirth": "2019-08-01",
+              "subjects": {
+                "maths": {"note": "Demonstrates understanding of basic addition and subtraction."},
+                "physicalSciences": {"note": "Asks questions to explore how things work."},
+                "English": {"note": "Reading simple sentences with assistance."},
+                "computers": {"note": "Learning to save files on a computer."},
+                "sport": {"note": "Improving coordination and balance in sports activities."}
+              },
+              "image": "assets/img/3.png"
+            }
+
+
+          ]
+        },
+
+        {
+          "class": "2C",
+          "students": [
+
+            {
+              "position":18,
+              "username": "student13",
+              "age": 5,
+              "dateOfBirth": "2020-01-01",
+              "subjects": {
+                "maths": {"note": "Progressing in understanding basic math concepts."},
+                "physicalSciences": {"note": "Enjoys exploring different materials and their properties."},
+                "English": {"note": "Forming sentences independently."},
+                "computers": {"note": "Browsing simple websites with supervision."},
+                "sport": {"note": "Participating actively in team sports."}
+              },
+              "image": "assets/img/1.jpg"
+            }
+
+          ]
+        }
+      ],
+      "Year 3": [
+        {
+          "class": "3A",
+          "students": [
+
+            {
+              "position":19,
+              "username": "student2",
+              "age": 5,
+              "dateOfBirth": "2019-02-01",
+              "subjects": {
+                "maths": {"note": "Needs more practice in counting."},
+                "physicalSciences": {"note": "Curious about how things work."},
+                "English": {"note": "Working on vocabulary development."},
+                "computers": {"note": "Learning to use a mouse and keyboard."},
+                "sport": {"note": "Participates in sports activities with enthusiasm."}
+              },
+              "image": "assets/img/2.png"
+            }
+
+
+          ]
+        },
+        {
+          "class": "3B",
+          "students": [
+            {
+              "position":20,
+              "username": "student6",
+              "age": 5,
+              "dateOfBirth": "2019-06-01",
+              "subjects": {
+                "maths": {"note": "Shows progress in counting skills."},
+                "physicalSciences": {"note": "Curious about different materials."},
+                "English": {"note": "Beginning to form complete sentences."},
+                "computers": {"note": "Learning to open and close programs."},
+                "sport": {"note": "Developing basic motor skills in sports activities."}
+              },
+              "image": "assets/img/1.jpg"
+            },
+            {
+              "position":21,
+              "username": "student7",
+              "age": 5,
+              "dateOfBirth": "2019-07-01",
+              "subjects": {
+                "maths": {"note": "Practicing counting with various objects."},
+                "physicalSciences": {"note": "Expresses interest in simple scientific concepts."},
+                "English": {"note": "Learning new words and their meanings."},
+                "computers": {"note": "Understanding basic functions of a computer."},
+                "sport": {"note": "Participates in group sports activities with enthusiasm."}
+              },
+              "image": "assets/img/2.png"
+            },
+            {
+              "position":22,
+              "username": "student8",
+              "age": 5,
+              "dateOfBirth": "2019-08-01",
+              "subjects": {
+                "maths": {"note": "Demonstrates understanding of basic addition and subtraction."},
+                "physicalSciences": {"note": "Asks questions to explore how things work."},
+                "English": {"note": "Reading simple sentences with assistance."},
+                "computers": {"note": "Learning to save files on a computer."},
+                "sport": {"note": "Improving coordination and balance in sports activities."}
+              },
+              "image": "assets/img/3.png"
+            }
+
+          ]
+        },
+
+        {
+          "class": "3C",
+          "students": [
+            {
+              "position":23,
+              "username": "student11",
+              "age": 5,
+              "dateOfBirth": "2019-11-01",
+              "subjects": {
+                "maths": {"note": "Showing understanding of basic addition and subtraction."},
+                "physicalSciences": {"note": "Displays interest in simple scientific concepts."},
+                "English": {"note": "Beginning to read simple sentences."},
+                "computers": {"note": "Learning to use basic software applications."},
+                "sport": {"note": "Participates actively in various sports activities."}
+              },
+              "image": "assets/img/2.png"
+            },
+            {
+              "position":24,
+              "username": "student12",
+              "age": 5,
+              "dateOfBirth": "2019-12-01",
+              "subjects": {
+                "maths": {"note": "Practicing counting with larger numbers."},
+                "physicalSciences": {"note": "Asks questions to understand scientific phenomena."},
+                "English": {"note": "Increasing vocabulary through reading."},
+                "computers": {"note": "Learning to navigate the internet."},
+                "sport": {"note": "Demonstrates improvement in motor skills through sports."}
+              },
+              "image": "assets/img/1.jpg"
+            },
+
+            {
+              "position":25,
+              "username": "student14",
+              "age": 5,
+              "dateOfBirth": "2020-02-01",
+              "subjects": {
+                "maths": {"note": "Practicing addition and subtraction with objects."},
+                "physicalSciences": {"note": "Curious about the natural world and its phenomena."},
+                "English": {"note": "Reading short stories with assistance."},
+                "computers": {"note": "Learning to type on a keyboard."},
+                "sport": {"note": "Demonstrating coordination and teamwork in sports."}
+              },
+              "image": "assets/img/1.jpg"
+            }
+
+          ]
+        }
+      ],
+      "Year 4": [       {
+        "class": "4A",
+        "students": [
+
+          {
+            "position":100,
+            "username": "student5",
+            "age": 5,
+            "dateOfBirth": "2019-05-01",
+            "subjects": {
+              "maths": {"note": "Confidently applies counting skills."},
+              "physicalSciences": {"note": "Eager to explore different materials."},
+              "English": {"note": "Starting to construct simple sentences."},
+              "computers": {"note": "Comfortable using a computer with minimal assistance."},
+              "sport": {"note": "Participates actively in team sports."}
+            },
+            "image": "assets/img/1.png"
+          }
+        ]
+      },
+        {
+          "class": "4B",
+          "students": [
+            {
+              "position":26,
+              "username": "student6",
+              "age": 5,
+              "dateOfBirth": "2019-06-01",
+              "subjects": {
+                "maths": {"note": "Shows progress in counting skills."},
+                "physicalSciences": {"note": "Curious about different materials."},
+                "English": {"note": "Beginning to form complete sentences."},
+                "computers": {"note": "Learning to open and close programs."},
+                "sport": {"note": "Developing basic motor skills in sports activities."}
+              },
+              "image": "assets/img/1.jpg"
+            },
+
+            {
+              "position":89,
+              "username": "student9",
+              "age": 5,
+              "dateOfBirth": "2019-09-01",
+              "subjects": {
+                "maths": {"note": "Working on number recognition and sequencing."},
+                "physicalSciences": {"note": "Excited to participate in hands-on experiments."},
+                "English": {"note": "Attempting to write simple sentences."},
+                "computers": {"note": "Learning to use keyboard shortcuts."},
+                "sport": {"note": "Enjoying team sports and cooperative games."}
+              },
+              "image": "assets/img/1.png"
+            }
+          ]
+        },
+
+        {
+          "class": "4C",
+          "students": [
+            {
+              "position":27,
+              "username": "student11",
+              "age": 5,
+              "dateOfBirth": "2019-11-01",
+              "subjects": {
+                "maths": {"note": "Showing understanding of basic addition and subtraction."},
+                "physicalSciences": {"note": "Displays interest in simple scientific concepts."},
+                "English": {"note": "Beginning to read simple sentences."},
+                "computers": {"note": "Learning to use basic software applications."},
+                "sport": {"note": "Participates actively in various sports activities."}
+              },
+              "image": "assets/img/2.png"
+            },
+            {
+              "position":28,
+              "username": "student12",
+              "age": 5,
+              "dateOfBirth": "2019-12-01",
+              "subjects": {
+                "maths": {"note": "Practicing counting with larger numbers."},
+                "physicalSciences": {"note": "Asks questions to understand scientific phenomena."},
+                "English": {"note": "Increasing vocabulary through reading."},
+                "computers": {"note": "Learning to navigate the internet."},
+                "sport": {"note": "Demonstrates improvement in motor skills through sports."}
+              },
+              "image": "assets/img/1.jpg"
+            }
+
+          ]
+        }],
+      "Year 5": [
+        {
+          "class": "5A",
+          "students": [
+            {
+              "position":30,
+              "username": "student1",
+              "age": 5,
+              "dateOfBirth": "2019-01-01",
+              "subjects": {
+                "maths": {"note": "Excellent understanding of basic counting."},
+                "physicalSciences": {"note": "Enjoys simple experiments."},
+                "English": {"note": "Good vocabulary for age."},
+                "computers": {"note": "Basic understanding of using a computer."},
+                "sport": {"note": "Active and enjoys physical activities."}
+              },
+              "image": "assets/img/1.jpg"
+            },
+
+            {
+              "position":31,
+              "username": "student4",
+              "age": 5,
+              "dateOfBirth": "2019-04-01",
+              "subjects": {
+                "maths": {"note": "Works independently on counting tasks."},
+                "physicalSciences": {"note": "Asks questions to understand experiments better."},
+                "English": {"note": "Expanding vocabulary through reading."},
+                "computers": {"note": "Able to navigate basic computer programs."},
+                "sport": {"note": "Shows interest in learning new sports."}
+              },
+              "image": "assets/img/3.png"
+            },
+            {
+              "position":32,
+              "username": "student5",
+              "age": 5,
+              "dateOfBirth": "2019-05-01",
+              "subjects": {
+                "maths": {"note": "Confidently applies counting skills."},
+                "physicalSciences": {"note": "Eager to explore different materials."},
+                "English": {"note": "Starting to construct simple sentences."},
+                "computers": {"note": "Comfortable using a computer with minimal assistance."},
+                "sport": {"note": "Participates actively in team sports."}
+              },
+              "image": "assets/img/1.png"
+            }
+          ]
+        },
+        {
+          "class": "5B",
+          "students": [
+            {
+              "position":33,
+              "username": "student6",
+              "age": 5,
+              "dateOfBirth": "2019-06-01",
+              "subjects": {
+                "maths": {"note": "Shows progress in counting skills."},
+                "physicalSciences": {"note": "Curious about different materials."},
+                "English": {"note": "Beginning to form complete sentences."},
+                "computers": {"note": "Learning to open and close programs."},
+                "sport": {"note": "Developing basic motor skills in sports activities."}
+              },
+              "image": "assets/img/1.jpg"
+            },
+
+
+            {
+              "position":34,
+              "username": "student9",
+              "age": 5,
+              "dateOfBirth": "2019-09-01",
+              "subjects": {
+                "maths": {"note": "Working on number recognition and sequencing."},
+                "physicalSciences": {"note": "Excited to participate in hands-on experiments."},
+                "English": {"note": "Attempting to write simple sentences."},
+                "computers": {"note": "Learning to use keyboard shortcuts."},
+                "sport": {"note": "Enjoying team sports and cooperative games."}
+              },
+              "image": "assets/img/1.png"
+            },
+            {
+              "position":35,
+              "username": "student10",
+              "age": 5,
+              "dateOfBirth": "2019-10-01",
+              "subjects": {
+                "maths": {"note": "Practicing counting in different contexts."},
+                "physicalSciences": {"note": "Showing curiosity about the natural world."},
+                "English": {"note": "Becoming more fluent in spoken language."},
+                "computers": {"note": "Exploring various computer applications."},
+                "sport": {"note": "Participating actively in structured physical activities."}
+              },
+              "image": "assets/img/3.png"
+            }
+          ]
+        },
+
+        {
+          "class": "5C",
+          "students": [
+            {
+              "position":36,
+              "username": "student11",
+              "age": 5,
+              "dateOfBirth": "2019-11-01",
+              "subjects": {
+                "maths": {"note": "Showing understanding of basic addition and subtraction."},
+                "physicalSciences": {"note": "Displays interest in simple scientific concepts."},
+                "English": {"note": "Beginning to read simple sentences."},
+                "computers": {"note": "Learning to use basic software applications."},
+                "sport": {"note": "Participates actively in various sports activities."}
+              },
+              "image": "assets/img/2.png"
+            },
+
+            {
+              "position":37,
+              "username": "student13",
+              "age": 5,
+              "dateOfBirth": "2020-01-01",
+              "subjects": {
+                "maths": {"note": "Progressing in understanding basic math concepts."},
+                "physicalSciences": {"note": "Enjoys exploring different materials and their properties."},
+                "English": {"note": "Forming sentences independently."},
+                "computers": {"note": "Browsing simple websites with supervision."},
+                "sport": {"note": "Participating actively in team sports."}
+              },
+              "image": "assets/img/1.jpg"
+            }
+
+          ]
+        }
+      ]
+    }
+  },
+  "secondary": {
+    "years": ["Year 6", "Year 7", "Year 8", "Year 9"],
+    "classes": {
+      "Year 6": [       {
+        "class": "6A",
+        "students": [
+          {
+            "position":40,
+            "username": "student1",
+            "age": 5,
+            "dateOfBirth": "2019-01-01",
+            "subjects": {
+              "maths": {"note": "Excellent understanding of basic counting."},
+              "physicalSciences": {"note": "Enjoys simple experiments."},
+              "English": {"note": "Good vocabulary for age."},
+              "computers": {"note": "Basic understanding of using a computer."},
+              "sport": {"note": "Active and enjoys physical activities."}
+            },
+            "image": "assets/img/1.jpg"
+          },
+
+          {
+            "position":41,
+            "username": "student3",
+            "age": 5,
+            "dateOfBirth": "2019-03-01",
+            "subjects": {
+              "maths": {"note": "Shows improvement in counting."},
+              "physicalSciences": {"note": "Observant during experiments."},
+              "English": {"note": "Beginning to express ideas in sentences."},
+              "computers": {"note": "Becoming familiar with basic software."},
+              "sport": {"note": "Demonstrates coordination and balance in activities."}
+            },
+            "image": "assets/img/3.png"
+          },
+          {
+            "position":42,
+            "username": "student4",
+            "age": 5,
+            "dateOfBirth": "2019-04-01",
+            "subjects": {
+              "maths": {"note": "Works independently on counting tasks."},
+              "physicalSciences": {"note": "Asks questions to understand experiments better."},
+              "English": {"note": "Expanding vocabulary through reading."},
+              "computers": {"note": "Able to navigate basic computer programs."},
+              "sport": {"note": "Shows interest in learning new sports."}
+            },
+            "image": "assets/img/3.png"
+          },
+          {
+            "position":43,
+            "username": "student5",
+            "age": 5,
+            "dateOfBirth": "2019-05-01",
+            "subjects": {
+              "maths": {"note": "Confidently applies counting skills."},
+              "physicalSciences": {"note": "Eager to explore different materials."},
+              "English": {"note": "Starting to construct simple sentences."},
+              "computers": {"note": "Comfortable using a computer with minimal assistance."},
+              "sport": {"note": "Participates actively in team sports."}
+            },
+            "image": "assets/img/1.jpg"
+          }
+        ]
+      },
+        {
+          "class": "6B",
+          "students": [
+
+            {
+              "position":45,
+              "username": "student7",
+              "age": 5,
+              "dateOfBirth": "2019-07-01",
+              "subjects": {
+                "maths": {"note": "Practicing counting with various objects."},
+                "physicalSciences": {"note": "Expresses interest in simple scientific concepts."},
+                "English": {"note": "Learning new words and their meanings."},
+                "computers": {"note": "Understanding basic functions of a computer."},
+                "sport": {"note": "Participates in group sports activities with enthusiasm."}
+              },
+              "image": "assets/img/2.png"
+            },
+            {
+              "position":46,
+              "username": "student8",
+              "age": 5,
+              "dateOfBirth": "2019-08-01",
+              "subjects": {
+                "maths": {"note": "Demonstrates understanding of basic addition and subtraction."},
+                "physicalSciences": {"note": "Asks questions to explore how things work."},
+                "English": {"note": "Reading simple sentences with assistance."},
+                "computers": {"note": "Learning to save files on a computer."},
+                "sport": {"note": "Improving coordination and balance in sports activities."}
+              },
+              "image": "assets/img/3.png"
+            },
+            {
+              "position":47,
+              "username": "student9",
+              "age": 5,
+              "dateOfBirth": "2019-09-01",
+              "subjects": {
+                "maths": {"note": "Working on number recognition and sequencing."},
+                "physicalSciences": {"note": "Excited to participate in hands-on experiments."},
+                "English": {"note": "Attempting to write simple sentences."},
+                "computers": {"note": "Learning to use keyboard shortcuts."},
+                "sport": {"note": "Enjoying team sports and cooperative games."}
+              },
+              "image": "assets/img/1.png"
+            }
+
+          ]
+        },
+
+        {
+          "class": "6C",
+          "students": [
+            {
+              "position":50,
+              "username": "student11",
+              "age": 5,
+              "dateOfBirth": "2019-11-01",
+              "subjects": {
+                "maths": {"note": "Showing understanding of basic addition and subtraction."},
+                "physicalSciences": {"note": "Displays interest in simple scientific concepts."},
+                "English": {"note": "Beginning to read simple sentences."},
+                "computers": {"note": "Learning to use basic software applications."},
+                "sport": {"note": "Participates actively in various sports activities."}
+              },
+              "image": "assets/img/2.png"
+            },
+
+            {
+              "position":51,
+              "username": "student13",
+              "age": 5,
+              "dateOfBirth": "2020-01-01",
+              "subjects": {
+                "maths": {"note": "Progressing in understanding basic math concepts."},
+                "physicalSciences": {"note": "Enjoys exploring different materials and their properties."},
+                "English": {"note": "Forming sentences independently."},
+                "computers": {"note": "Browsing simple websites with supervision."},
+                "sport": {"note": "Participating actively in team sports."}
+              },
+              "image": "assets/img/1.jpg"
+            },
+            {
+              "position":52,
+              "username": "student14",
+              "age": 5,
+              "dateOfBirth": "2020-02-01",
+              "subjects": {
+                "maths": {"note": "Practicing addition and subtraction with objects."},
+                "physicalSciences": {"note": "Curious about the natural world and its phenomena."},
+                "English": {"note": "Reading short stories with assistance."},
+                "computers": {"note": "Learning to type on a keyboard."},
+                "sport": {"note": "Demonstrating coordination and teamwork in sports."}
+              },
+              "image": "assets/img/1.jpg"
+            }
+          ]
+        }],
+      "Year 7": [       {
+        "class": "7A",
+        "students": [
+
+          {
+            "position":55,
+            "username": "student3",
+            "age": 5,
+            "dateOfBirth": "2019-03-01",
+            "subjects": {
+              "maths": {"note": "Shows improvement in counting."},
+              "physicalSciences": {"note": "Observant during experiments."},
+              "English": {"note": "Beginning to express ideas in sentences."},
+              "computers": {"note": "Becoming familiar with basic software."},
+              "sport": {"note": "Demonstrates coordination and balance in activities."}
+            },
+            "image": "assets/img/3.png"
+          },
+          {
+            "position":56,
+            "username": "student4",
+            "age": 5,
+            "dateOfBirth": "2019-04-01",
+            "subjects": {
+              "maths": {"note": "Works independently on counting tasks."},
+              "physicalSciences": {"note": "Asks questions to understand experiments better."},
+              "English": {"note": "Expanding vocabulary through reading."},
+              "computers": {"note": "Able to navigate basic computer programs."},
+              "sport": {"note": "Shows interest in learning new sports."}
+            },
+            "image": "assets/img/3.png"
+          }
+
+        ]
+      },
+        {
+          "class": "7B",
+          "students": [
+            {
+              "position":58,
+              "username": "student6",
+              "age": 5,
+              "dateOfBirth": "2019-06-01",
+              "subjects": {
+                "maths": {"note": "Shows progress in counting skills."},
+                "physicalSciences": {"note": "Curious about different materials."},
+                "English": {"note": "Beginning to form complete sentences."},
+                "computers": {"note": "Learning to open and close programs."},
+                "sport": {"note": "Developing basic motor skills in sports activities."}
+              },
+              "image": "assets/img/1.jpg"
+            },
+            {
+              "position":59,
+              "username": "student7",
+              "age": 5,
+              "dateOfBirth": "2019-07-01",
+              "subjects": {
+                "maths": {"note": "Practicing counting with various objects."},
+                "physicalSciences": {"note": "Expresses interest in simple scientific concepts."},
+                "English": {"note": "Learning new words and their meanings."},
+                "computers": {"note": "Understanding basic functions of a computer."},
+                "sport": {"note": "Participates in group sports activities with enthusiasm."}
+              },
+              "image": "assets/img/2.png"
+            },
+
+            {
+              "position":60,
+              "username": "student9",
+              "age": 5,
+              "dateOfBirth": "2019-09-01",
+              "subjects": {
+                "maths": {"note": "Working on number recognition and sequencing."},
+                "physicalSciences": {"note": "Excited to participate in hands-on experiments."},
+                "English": {"note": "Attempting to write simple sentences."},
+                "computers": {"note": "Learning to use keyboard shortcuts."},
+                "sport": {"note": "Enjoying team sports and cooperative games."}
+              },
+              "image": "assets/img/1.png"
+            },
+            {
+              "position":61,
+              "username": "student10",
+              "age": 5,
+              "dateOfBirth": "2019-10-01",
+              "subjects": {
+                "maths": {"note": "Practicing counting in different contexts."},
+                "physicalSciences": {"note": "Showing curiosity about the natural world."},
+                "English": {"note": "Becoming more fluent in spoken language."},
+                "computers": {"note": "Exploring various computer applications."},
+                "sport": {"note": "Participating actively in structured physical activities."}
+              },
+              "image": "assets/img/3.png"
+            }
+          ]
+        },
+
+        {
+          "class": "7C",
+          "students": [
+            {
+              "position":62,
+              "username": "student11",
+              "age": 5,
+              "dateOfBirth": "2019-11-01",
+              "subjects": {
+                "maths": {"note": "Showing understanding of basic addition and subtraction."},
+                "physicalSciences": {"note": "Displays interest in simple scientific concepts."},
+                "English": {"note": "Beginning to read simple sentences."},
+                "computers": {"note": "Learning to use basic software applications."},
+                "sport": {"note": "Participates actively in various sports activities."}
+              },
+              "image": "assets/img/2.png"
+            },
+
+            {
+              "position":63,
+              "username": "student13",
+              "age": 5,
+              "dateOfBirth": "2020-01-01",
+              "subjects": {
+                "maths": {"note": "Progressing in understanding basic math concepts."},
+                "physicalSciences": {"note": "Enjoys exploring different materials and their properties."},
+                "English": {"note": "Forming sentences independently."},
+                "computers": {"note": "Browsing simple websites with supervision."},
+                "sport": {"note": "Participating actively in team sports."}
+              },
+              "image": "assets/img/1.jpg"
+            },
+            {
+              "position":64,
+              "username": "student14",
+              "age": 5,
+              "dateOfBirth": "2020-02-01",
+              "subjects": {
+                "maths": {"note": "Practicing addition and subtraction with objects."},
+                "physicalSciences": {"note": "Curious about the natural world and its phenomena."},
+                "English": {"note": "Reading short stories with assistance."},
+                "computers": {"note": "Learning to type on a keyboard."},
+                "sport": {"note": "Demonstrating coordination and teamwork in sports."}
+              },
+              "image": "assets/img/1.jpg"
+            }
+
+          ]
+        }],
+      "Year 8": [       {
+        "class": "8A",
+        "students": [
+          {
+            "position":65,
+            "username": "student1",
+            "age": 5,
+            "dateOfBirth": "2019-01-01",
+            "subjects": {
+              "maths": {"note": "Excellent understanding of basic counting."},
+              "physicalSciences": {"note": "Enjoys simple experiments."},
+              "English": {"note": "Good vocabulary for age."},
+              "computers": {"note": "Basic understanding of using a computer."},
+              "sport": {"note": "Active and enjoys physical activities."}
+            },
+            "image": "assets/img/1.jpg"
+          },
+
+          {
+            "position":66,
+            "username": "student4",
+            "age": 5,
+            "dateOfBirth": "2019-04-01",
+            "subjects": {
+              "maths": {"note": "Works independently on counting tasks."},
+              "physicalSciences": {"note": "Asks questions to understand experiments better."},
+              "English": {"note": "Expanding vocabulary through reading."},
+              "computers": {"note": "Able to navigate basic computer programs."},
+              "sport": {"note": "Shows interest in learning new sports."}
+            },
+            "image": "assets/img/3.png"
+          },
+          {
+            "position":67,
+            "username": "student5",
+            "age": 5,
+            "dateOfBirth": "2019-05-01",
+            "subjects": {
+              "maths": {"note": "Confidently applies counting skills."},
+              "physicalSciences": {"note": "Eager to explore different materials."},
+              "English": {"note": "Starting to construct simple sentences."},
+              "computers": {"note": "Comfortable using a computer with minimal assistance."},
+              "sport": {"note": "Participates actively in team sports."}
+            },
+            "image": "assets/img/1.png"
+          }
+        ]
+      },
+        {
+          "class": "8B",
+          "students": [
+            {
+              "position":68,
+              "username": "student6",
+              "age": 5,
+              "dateOfBirth": "2019-06-01",
+              "subjects": {
+                "maths": {"note": "Shows progress in counting skills."},
+                "physicalSciences": {"note": "Curious about different materials."},
+                "English": {"note": "Beginning to form complete sentences."},
+                "computers": {"note": "Learning to open and close programs."},
+                "sport": {"note": "Developing basic motor skills in sports activities."}
+              },
+              "image": "assets/img/1.jpg"
+            },
+            {
+              "position":70,
+              "username": "student7",
+              "age": 5,
+              "dateOfBirth": "2019-07-01",
+              "subjects": {
+                "maths": {"note": "Practicing counting with various objects."},
+                "physicalSciences": {"note": "Expresses interest in simple scientific concepts."},
+                "English": {"note": "Learning new words and their meanings."},
+                "computers": {"note": "Understanding basic functions of a computer."},
+                "sport": {"note": "Participates in group sports activities with enthusiasm."}
+              },
+              "image": "assets/img/2.png"
+            }
+
+          ]
+        },
+
+        {
+          "class": "8C",
+          "students": [
+            {
+              "position":72,
+              "username": "student11",
+              "age": 5,
+              "dateOfBirth": "2019-11-01",
+              "subjects": {
+                "maths": {"note": "Showing understanding of basic addition and subtraction."},
+                "physicalSciences": {"note": "Displays interest in simple scientific concepts."},
+                "English": {"note": "Beginning to read simple sentences."},
+                "computers": {"note": "Learning to use basic software applications."},
+                "sport": {"note": "Participates actively in various sports activities."}
+              },
+              "image": "assets/img/2.png"
+            }
+
+          ]
+        }],
+      "Year 9": [       {
+        "class": "9A",
+        "students": [
+
+          {
+            "position":83,
+            "username": "student2",
+            "age": 5,
+            "dateOfBirth": "2019-02-01",
+            "subjects": {
+              "maths": {"note": "Needs more practice in counting."},
+              "physicalSciences": {"note": "Curious about how things work."},
+              "English": {"note": "Working on vocabulary development."},
+              "computers": {"note": "Learning to use a mouse and keyboard."},
+              "sport": {"note": "Participates in sports activities with enthusiasm."}
+            },
+            "image": "assets/img/2.png"
+          },
+          {
+            "position":82,
+            "username": "student3",
+            "age": 5,
+            "dateOfBirth": "2019-03-01",
+            "subjects": {
+              "maths": {"note": "Shows improvement in counting."},
+              "physicalSciences": {"note": "Observant during experiments."},
+              "English": {"note": "Beginning to express ideas in sentences."},
+              "computers": {"note": "Becoming familiar with basic software."},
+              "sport": {"note": "Demonstrates coordination and balance in activities."}
+            },
+            "image": "assets/img/3.png"
+          },
+          {
+            "position":81,
+            "username": "student4",
+            "age": 5,
+            "dateOfBirth": "2019-04-01",
+            "subjects": {
+              "maths": {"note": "Works independently on counting tasks."},
+              "physicalSciences": {"note": "Asks questions to understand experiments better."},
+              "English": {"note": "Expanding vocabulary through reading."},
+              "computers": {"note": "Able to navigate basic computer programs."},
+              "sport": {"note": "Shows interest in learning new sports."}
+            },
+            "image": "assets/img/3.png"
+          },
+          {
+            "position":80,
+            "username": "student5",
+            "age": 5,
+            "dateOfBirth": "2019-05-01",
+            "subjects": {
+              "maths": {"note": "Confidently applies counting skills."},
+              "physicalSciences": {"note": "Eager to explore different materials."},
+              "English": {"note": "Starting to construct simple sentences."},
+              "computers": {"note": "Comfortable using a computer with minimal assistance."},
+              "sport": {"note": "Participates actively in team sports."}
+            },
+            "image": "assets/img/1.png"
+          }
+        ]
+      },
+        {
+          "class": "9B",
+          "students": [
+
+
+            {
+              "position":75,
+              "username": "student9",
+              "age": 5,
+              "dateOfBirth": "2019-09-01",
+              "subjects": {
+                "maths": {"note": "Working on number recognition and sequencing."},
+                "physicalSciences": {"note": "Excited to participate in hands-on experiments."},
+                "English": {"note": "Attempting to write simple sentences."},
+                "computers": {"note": "Learning to use keyboard shortcuts."},
+                "sport": {"note": "Enjoying team sports and cooperative games."}
+              },
+              "image": "assets/img/1.png"
+            },
+            {
+              "position":76,
+              "username": "student10",
+              "age": 5,
+              "dateOfBirth": "2019-10-01",
+              "subjects": {
+                "maths": {"note": "Practicing counting in different contexts."},
+                "physicalSciences": {"note": "Showing curiosity about the natural world."},
+                "English": {"note": "Becoming more fluent in spoken language."},
+                "computers": {"note": "Exploring various computer applications."},
+                "sport": {"note": "Participating actively in structured physical activities."}
+              },
+              "image": "assets/img/3.png"
+            }
+          ]
+        },
+
+        {
+          "class": "9C",
+          "students": [
+
+            {
+              "position":77,
+              "username": "student13",
+              "age": 5,
+              "dateOfBirth": "2020-01-01",
+              "subjects": {
+                "maths": {"note": "Progressing in understanding basic math concepts."},
+                "physicalSciences": {"note": "Enjoys exploring different materials and their properties."},
+                "English": {"note": "Forming sentences independently."},
+                "computers": {"note": "Browsing simple websites with supervision."},
+                "sport": {"note": "Participating actively in team sports."}
+              },
+              "image": "assets/img/1.jpg"
+            },
+            {
+              "position":78,
+              "username": "student14",
+              "age": 5,
+              "dateOfBirth": "2020-02-01",
+              "subjects": {
+                "maths": {"note": "Practicing addition and subtraction with objects."},
+                "physicalSciences": {"note": "Curious about the natural world and its phenomena."},
+                "English": {"note": "Reading short stories with assistance."},
+                "computers": {"note": "Learning to type on a keyboard."},
+                "sport": {"note": "Demonstrating coordination and teamwork in sports."}
+              },
+              "image": "assets/img/1.jpg"
+            }
+
+          ]
+        }]
+    }
+  }
+}

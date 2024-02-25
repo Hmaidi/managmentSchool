@@ -1,0 +1,43 @@
+.student-profile {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.profile-image {
+  max-width: 100px;
+  border-radius: 50%;
+}
+
+.subjects {
+  margin-top: 20px;
+}
+.PhotoName {
+  display: table;
+  margin: auto;
+}
+.subject {
+  margin-bottom: 10px;
+}
+
+.subject h3 {
+  margin-top: 0;
+}
+
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+table th, table td {
+  padding: 8px;
+  border: 1px solid #dddddd;
+  text-align: left;
+}
+
+.subject p {
+  margin-bottom: 0;
+}

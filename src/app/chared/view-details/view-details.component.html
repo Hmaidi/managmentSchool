@@ -1,0 +1,21 @@
+<div class="container">
+  <div *ngIf=" this.dataSearch" class="student-profile">
+    <div class="PhotoName">
+      <img class="profile-image" [src]="this.dataSearch.image" alt="Student Image">
+      <h2>{{  this.dataSearch.username }}</h2>
+    </div>
+
+    <p><strong>Age:</strong> {{  this.dataSearch.age }}</p>
+    <p><strong>Date of Birth:</strong> {{  this.dataSearch.dateOfBirth }}</p>
+    <div class="subjects">
+      <h3>Subjects</h3>
+      <table>
+        <tr *ngFor="let subject of Object.keys( this.dataSearch.subjects)">
+          <td> <h3>{{ subject }}</h3></td>
+          <td>  <p>{{  this.dataSearch.subjects[subject].note }}</p></td>
+        </tr>
+      </table>
+
+    </div>
+  </div>
+</div>

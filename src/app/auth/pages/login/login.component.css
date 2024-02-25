@@ -1,0 +1,35 @@
+.login-container {
+  height: 100%;
+  width: 100%;
+  align-items: center;
+  display: flex;
+}
+
+form {
+  padding: 50px 35px;
+  text-align: center;
+}
+.mat-mdc-card {
+  position: relative;
+  display: block;
+  background: #eceae4;
+}
+.login-content {
+
+  display: block;
+  margin: 0 auto;
+}
+.mdc-button {
+  padding: 24px;
+}
+.mat-mdc-form-field{
+  width: 100%;
+}
+.login-toolbar {
+  justify-content: center;
+}
+
+.mat-raised-button {
+  width: 100%;
+  margin-top: 15px;
+}

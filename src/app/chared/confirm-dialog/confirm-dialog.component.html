@@ -1,0 +1,41 @@
+
+
+
+
+
+<div class="container mt-5">
+
+  <mat-toolbar class="login-toolbar" color="primary">Add new Student</mat-toolbar>
+  <mat-dialog-content class="mat-typography">
+
+    <form (ngSubmit)="saveHandler()" [formGroup]="form" >
+      <mat-form-field class="example-form-field">
+        <mat-label>User Name</mat-label>
+        <input matInput type="text" formControlName="username">
+      </mat-form-field>
+      <mat-form-field class="example-form-field">
+        <mat-label>school</mat-label>
+        <input matInput type="text" formControlName="school">
+      </mat-form-field>
+
+      <mat-form-field class="example-form-field">
+        <mat-label>Class</mat-label>
+        <input matInput type="text" formControlName="class">
+      </mat-form-field>
+      <mat-form-field class="example-form-field">
+        <mat-label>Year</mat-label>
+        <input matInput type="text" formControlName="year">
+      </mat-form-field>
+
+
+
+      <mat-dialog-actions align="end">
+        <button mat-button mat-dialog-close>Cancel</button>
+        <button mat-button (click)="saveHandler()" cdkFocusInitial>Confirm</button>
+      </mat-dialog-actions>
+
+
+
+    </form>
+  </mat-dialog-content>
+</div>

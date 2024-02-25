@@ -1,0 +1,35 @@
+
+<div class="login-container">
+  <div class="login-content">
+    <mat-toolbar class="login-toolbar" color="primary">Login</mat-toolbar>
+    <mat-card>
+      <form [formGroup]="loginForm" (ngSubmit)="onSubmit()">
+
+      <mat-form-field appearance="fill" >
+          <mat-icon matPrefix>person_outline</mat-icon>
+          <input autofocus type="text" matInput placeholder="Username" formControlName="username" >
+          <mat-error *ngIf="loginForm?.get('username')?.invalid && (loginForm?.get('username')?.dirty || loginForm?.get('username')?.touched)">
+            Username is required
+          </mat-error>
+        </mat-form-field>
+
+        <mat-form-field appearance="fill">
+          <mat-icon matPrefix>lock_outline</mat-icon>
+          <input type="password" autocomplete="false" matInput placeholder="Password" formControlName="password">
+          <mat-error *ngIf="loginForm?.get('password')?.invalid && (loginForm?.get('password')?.dirty || loginForm?.get('password')?.touched)">
+            Password is required
+          </mat-error>
+        </mat-form-field>
+
+        <button type="submit" mat-raised-button color="primary" [disabled]="loginForm?.invalid">Login</button>
+
+
+      </form>
+
+    </mat-card>
+    <mat-toolbar class="login-toolbar"  style="flex-direction: column" color="primary">
+      <label>username : test </label>
+      <label>password : test </label>
+    </mat-toolbar>
+  </div>
+</div>

@@ -1,0 +1,26 @@
+
+
+html, body { height: 100%; }
+body { margin: 0;
+  font-family: Roboto, "Helvetica Neue", sans-serif;
+
+  background-color: #e9ecef;
+
+}
+
+.mat-mdc-text-field-wrapper {
+  background-color: #000576;
+}
+
+.mat-toolbar.mat-primary {
+  --mat-toolbar-container-background-color: #022454;
+  --mat-toolbar-container-text-color: white;
+}
+.mat-mdc-raised-button.mat-primary{
+  --mdc-protected-button-container-color: #022454;
+}
+ app-students-list{
+   margin-top: 50px;
+   margin-bottom: 50px;
+ }
+
